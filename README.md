@@ -9,7 +9,9 @@ enum.py: I have written and integrated a code for implementing Low-Pass,High Pas
 ![aa_df0 0peak_counter_after_bandpass](https://user-images.githubusercontent.com/60814171/163824274-74f5e0b7-61f2-41d2-88b7-4d5b5960b92e.png)
 
 First Image is taking one parameter of a DNA Sequence and convolutr it with the filter.
+
 Second Image is the periodogram of the same parameter.
+
 Third is the peak counter.
 
 And this all helps us in finding the nature of the sequence and location of a promoter.
